@@ -11,7 +11,7 @@ After downloading the project, you must install the dependencies:
 git clone https://github.com/Vintellect/Mobile_App.git
 cd Mobile_App && npm install
 ```
-s
+
 ## Run and Try the App
 
 Before proceeding, ensure that your backend is correctly set up. All instructions for the backend [here](https://github.com/Vintellect/deploy_backend_guide).
