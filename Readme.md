@@ -14,7 +14,7 @@ cd Mobile_App && npm install
 s
 ## Run and Try the App
 
-Before proceeding, ensure that your backend is correctly set up.
+Before proceeding, ensure that your backend is correctly set up. All instructions for the backend [here](https://github.com/Vintellect/deploy_backend_guide).
 
 After that, you need to set up two files. The first one is `config.tsx`:
 ```typescript
